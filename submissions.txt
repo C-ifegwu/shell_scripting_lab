@@ -1,3 +1,8 @@
 student, assignment, submission status
 here, Shell Navigation, submitted
 Noel, Shell Navigation, not submitted
+Jesica, Shell Navigation, submitted
+Joel, Shell Navigation,   submitted
+Jake, Shell Navigation, not submitted
+James, Shell Navigation, not submitted
+John, Shell Navigation, not submitted
